@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1 style='color:red;text-align:center;'>Xin chào các bạn lớp đại học công nghệ thông tin khóa 2019</h1>";
+echo "<h1 style='color:red;text-align:center;'>Chào hainguyen. Chào mừng bạn đến với trang testhkc</h1>";
 
 ?>
 
